@@ -1,0 +1,4 @@
+image: brock5555/recovery
+
+tasks:
+    - command: wget https://raw.githubusercontent.com/dozzler555/gitpod/main/build.sh && chmod a+x build.sh && bash build.sh
